@@ -26,4 +26,3 @@ sudo apt install zsh
 sudo chsh -s $(which zsh)
 sudo rm -rf ~/.oh-my-zsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-sudo grep -qxF "PROMPT='%n@%m %~ %# '" ~/.zshrc || echo "PROMPT='%n@%m %~ %# '" >> ~/.zshrc && source ~/.zshrc
