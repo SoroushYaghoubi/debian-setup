@@ -12,7 +12,7 @@ sudo apt install python3-ropgadget
 
 
 # Install network tools
-sudo apt install -y netcat-openbsd wget telnet ssh
+sudo apt install -y netcat-openbsd wget telnet ssh dnsutils 
 
 # Install system monitor
 sudo apt install -y btop
