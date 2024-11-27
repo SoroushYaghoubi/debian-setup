@@ -8,7 +8,8 @@ sudo apt install -y gcc nasm make python3 pip nodejs npm
 
 # Install hacking tools
 sudo apt install -y gdb
-mkdir -p ~/repos
+sudo apt install python3-ropgadget
+
 
 # Install network tools
 sudo apt install -y netcat-openbsd wget telnet ssh
