@@ -24,4 +24,6 @@ sudo apt install -y sqlite3
 sudo apt install -y git emacs micro
 sudo apt install zsh
 sudo chsh -s $(which zsh)
-sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+sudo rm -rf ~/.oh-my-zsh
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+sudo grep -qxF "PROMPT='%n@%m %~ %# '" ~/.zshrc || echo "PROMPT='%n@%m %~ %# '" >> ~/.zshrc && source ~/.zshrc
