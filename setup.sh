@@ -11,7 +11,7 @@ sudo apt install -y gdb
 mkdir -p ~/repos
 
 # Install network tools
-sudo apt install -y netcat wget telnet ssh
+sudo apt install -y netcat-openbsd wget telnet ssh
 
 # Install system monitor
 sudo apt install -y btop
