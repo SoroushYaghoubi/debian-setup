@@ -22,3 +22,4 @@ sudo apt install -y sqlite3
 
 # Install productive tools
 sudo apt install -y git emacs micro
+sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
