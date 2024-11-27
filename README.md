@@ -3,7 +3,7 @@
 - **hacking tools**: pwndbg, objdump, ROPgadget, pwntools
 - **network tools**: nc, wget, telnet, ssh
 - **System Mon**: btop
-- **full-stack**: (sqlite3, flask, streamlit)
+- **full-stack**: (sqlite3, bottle, streamlit)
 - **productive tools**: git, emacs, micro
 
 # notes
