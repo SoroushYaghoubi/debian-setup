@@ -7,4 +7,7 @@
 - **productive tools**: git, emacs, micro
 
 # notes
-not all of them are being installed with the ´setup.sh´
+- make sure you clone and source these directly yourself
+  - https://github.com/JonathanSalwan/ROPgadget
+  - https://github.com/pwndbg/pwndbg
+- not all of them are being installed with the ´setup.sh´
