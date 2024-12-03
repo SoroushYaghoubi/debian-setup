@@ -14,7 +14,7 @@
 # useful programs and configs (not automatically setup but only to remember)
 - **full-stack**: (sqlite3, bottle, streamlit)
 - **Mathing on Python**
-  - libs: numpy, matplotlib
+  - useful libs: numpy, matplotlib
   - setting up Jupyter Notebook with venv
     0. create a venv
     1. activate the venv
