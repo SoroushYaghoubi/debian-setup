@@ -1,6 +1,6 @@
 # someuseful tools
 - **coding  tools**: gcc, nasm, make, python3/pip3, node/npm
-- **hacking tools**: pwndbg, objdump, ROPgadget, pwntools
+- **hacking tools**: pwndbg, objdump, ROPgadget
 - **network tools**: nc, wget, telnet, ssh, dnsutils (e.g. contains dig)
 - **System Mon**: btop
 - **productive tools**: git, emacs, micro
