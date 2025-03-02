@@ -1,5 +1,5 @@
 # os tools
-- **system mon**: btop, gparted
+- **system mon**: btop, gparted, neofetch
 - **ricing**: ohmyzsh, gf/pwndbg, i3
 
 # coding tool-box:
