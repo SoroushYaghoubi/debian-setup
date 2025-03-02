@@ -1,18 +1,26 @@
-# someuseful tools
-- **coding  tools**: gcc, nasm, make, python3/pip3, node/npm
-- **hacking tools**: pwndbg, objdump, ROPgadget
+# os tools
+- **system mon**: btop, gparted
+- **ricing**: ohmyzsh, gf/pwndbg, i3
+
+# coding tool-box:
+1. ecosys-specific: compiler/interpreter, package managers, environment tools (venv/node), dbg (gdb), linter (ESLint), build tools (Make),
+2. general util: text editor, [integ] terminal (bash), git, code navigation (grep), database engine (SQLite)
+
+# other
+- **hacking tools**: objdump, ROPgadget
 - **network tools**: nc, wget, telnet, ssh, dnsutils (e.g. contains dig)
-- **System Mon**: btop, gparted
-- **productive tools**: git, emacs, micro
 
-# notes
-- make sure you clone and source these directly yourself
-  - https://github.com/pwndbg/pwndbg
-  - https://github.com/ohmyzsh/ohmyzsh
-- not all of them are being installed with the ´setup.sh´
+# gnu overview
+- gcc, gdb, make, bash
+- tar, gzip
+- utils
+    1. coreutils: ls, cp, mv, rm, cat, echo, touch, pwd, chmod/chown
+    2. findutils: find, xargs
+    3. diffutils: diff, cmp, comm, sdiff
 
-# useful programs and configs (not automatically setup but only to remember)
-- **full-stack**: (sqlite3, bottle, streamlit)
+___
+
+# see later
 - **Mathing on Python**
   - useful libs: numpy, matplotlib, scipy
   - setting up Jupyter Notebook with venv
