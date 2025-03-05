@@ -18,6 +18,9 @@
     2. findutils: find, xargs
     3. diffutils: diff, cmp, comm, sdiff
 
+# server setup
+- lightweight+common: nginx+bundler
+    
 ___
 
 # see later
