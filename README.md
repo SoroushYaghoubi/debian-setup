@@ -9,7 +9,7 @@
 # other
 - **hacking tools**: objdump, ROPgadget
 - **network tools**:
-    - ping, arp, ip, tcpdump (wireshark)
+    - ping, arp, ip, tcpdump (wireshark), ifconfig (in linux)
 
 # gnu overview
 - gcc, gdb, make, bash
