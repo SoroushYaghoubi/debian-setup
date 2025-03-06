@@ -9,7 +9,7 @@
 # other
 - **hacking tools**: objdump, ROPgadget
 - **network tools**:
-    - ping, arp, ip, tcpdump (wireshark), ifconfig (in linux)
+    - ping, arp, ip [addr / route], tcpdump (wireshark), ifconfig (in linux)
 
 # gnu overview
 - gcc, gdb, make, bash
@@ -21,7 +21,6 @@
 
 # server setup
 - lightweight+common: nginx+bundler
-    
 ___
 
 # see later
