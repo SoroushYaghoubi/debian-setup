@@ -8,7 +8,8 @@
 
 # other
 - **hacking tools**: objdump, ROPgadget
-- **network tools**: nc, wget, curl, telnet, ssh, dnsutils (e.g. contains dig)
+- **network tools**:
+    - ping, arp, ip, tcpdump (wireshark)
 
 # gnu overview
 - gcc, gdb, make, bash
